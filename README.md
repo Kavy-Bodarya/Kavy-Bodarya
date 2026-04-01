@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Kavy Bodarya 👋
 
-<!--
-**Kavy-Bodarya/Kavy-Bodarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Developer** focused on building robust applications using the **.NET ecosystem**. I specialize in creating high-performance desktop experiences with **XAML** and scalable web solutions with **C#**.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Languages:** C#, XAML, HTML5, CSS3, JavaScript
+* **Frameworks:** .NET 8/9/10, WPF, WinUI 3, ASP.NET Core
+* **Tools:** Visual Studio, Git, GitHub, SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+* **Small Shop Inventory Management System:** A desktop utility built with WinUI 3 to solve daily hurdles of local shop owners.
+
+### 📈 My Goal
+I am currently looking for freelance opportunities where I can apply my expertise in C# and XAML to build efficient, user-centric software. I am committed to clean code and continuous learning.
+
+---
+
+### 📫 How to reach me:
+* **Email:** kbbodarya@gmail.com
+* **Portfolio:** https://Kavy-Bodarya.github.io
